@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268100500456",
+    "project_id": "gocarflutter",
+    "storage_bucket": "gocarflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268100500456:android:46971ab523a39f794a425d",
+        "android_client_info": {
+          "package_name": "com.example.fyp_gocar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268100500456-c0bq0mnjeee71a439a11g2aqe454clln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADcHE1qei6Vxulowr69JCCgShTAUuGjWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268100500456-c0bq0mnjeee71a439a11g2aqe454clln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
